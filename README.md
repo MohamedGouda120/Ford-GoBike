@@ -23,51 +23,51 @@
 
  We are going to explore the data features through six sections. Each section contains one or more variable that we think it would be useful for our analysis, and these sections are:
 
-> Sec 1: Start Time
->>- In this section, we are going to look through variables associated with the start time of the trip as days of the week and months. 
->>- We will look through the distribution of trips along days and months, and then compare their average trip duration in minutes. 
+ Sec 1: Start Time
+>- In this section, we are going to look through variables associated with the start time of the trip as days of the week and months. 
+>- We will look through the distribution of trips along days and months, and then compare their average trip duration in minutes. 
 
-> Sec 2: Start & End Stations
->>- In this section, we will go through start and end stations to know the top 5 start and end stations, and compare the average trip duration associated with these stations.
+ Sec 2: Start & End Stations
+>- In this section, we will go through start and end stations to know the top 5 start and end stations, and compare the average trip duration associated with these stations.
 
-> Sec 3: Gender
->>- In this section, we will go through gender variable to see gender distribution, and what percentage of each gender there are.
->>- We will also look through the average trip duration associated with each gender and different days of the week.
+ Sec 3: Gender
+>- In this section, we will go through gender variable to see gender distribution, and what percentage of each gender there are.
+>- We will also look through the average trip duration associated with each gender and different days of the week.
 
-> Sec 4: User Type
->>- In this section, we will go through user type variable to see users distribution, and what percentage of customers and subscribers there are.
->>- We will also look through the average trip duration associated with each user type and different days of the week.
+ Sec 4: User Type
+>- In this section, we will go through user type variable to see users distribution, and what percentage of customers and subscribers there are.
+>- We will also look through the average trip duration associated with each user type and different days of the week.
 
-> Sec 5: Birth Year
->>- In this section, we will go through birth year variable, and try to figure out the top 10 birth years associated with users that use Ford GoBike, and the average trip duration associated with each.
->>- We will also compare those top 10 birth years with gender and user type, and see their average trip duration to try to get some useful insights.
+ Sec 5: Birth Year
+>- In this section, we will go through birth year variable, and try to figure out the top 10 birth years associated with users that use Ford GoBike, and the average trip duration associated with each.
+>- We will also compare those top 10 birth years with gender and user type, and see their average trip duration to try to get some useful insights.
 
-> Sec 6: Business Development
->>- In this section, we will try to see how the business of Ford GoBike was doing from 2017 to 2020, and how was it affected by (COVID-19) during 2020.
+ Sec 6: Business Development
+>- In this section, we will try to see how the business of Ford GoBike was doing from 2017 to 2020, and how was it affected by (COVID-19) during 2020.
 
 ## Conclusions
 
  To summarize the whole story, we looked at data of Ford GoBike for Boston, US from 2017 to 2020, and we studied our data through six main sections:
 
-> Sec 1: Start Time
->>- In this section, we looked at data variables associated with the start time of the trip, and this provided us with some useful insights such as most trips were done in weekdays not weekends, but the average trip duration in weekends were higher.
->>- We also found that most trips were done in summer and the first half of fall, and the average trip duration is also higher in summer.
+ Sec 1: Start Time
+>- In this section, we looked at data variables associated with the start time of the trip, and this provided us with some useful insights such as most trips were done in weekdays not weekends, but the average trip duration in weekends were higher.
+>- We also found that most trips were done in summer and the first half of fall, and the average trip duration is also higher in summer.
 
-> Sec 2: Start & End Stations
->> In this section, we looked at the top 5 start and end stations, and the average trip duration associated with them, and we found that the top 3 start and end stations were the same, and many of the top 5 were in 'MIT'.
+ Sec 2: Start & End Stations
+> In this section, we looked at the top 5 start and end stations, and the average trip duration associated with them, and we found that the top 3 start and end stations were the same, and many of the top 5 were in 'MIT'.
 
-> Sec 3: Gender
->> In this section, we found that the majority of the users were males with about 75% while females tend to have higher average trip duration.
+ Sec 3: Gender
+> In this section, we found that the majority of the users were males with about 75% while females tend to have higher average trip duration.
 
-> Sec 4: User Type 
->>- In this section, we looked through user type variable to see the percentage of subscribers and customers, and we found that about 92% of the users were subscribers which is a really high percentage. 
->>- We also found that customers tend too have much higher average trip duration rate than subscribers.
+ Sec 4: User Type 
+>- In this section, we looked through user type variable to see the percentage of subscribers and customers, and we found that about 92% of the users were subscribers which is a really high percentage. 
+>- We also found that customers tend too have much higher average trip duration rate than subscribers.
 
-> Sec 5: Birth Year
->> In this section, we looked at the different birth years of users and got the top 10 of them, and we found that all of these years range from 1987 to 1996 with users who were born in 1992 were the most ones to use Ford GoBike while those who weer born in 1988 have the highest average trip duration.
+ Sec 5: Birth Year
+> In this section, we looked at the different birth years of users and got the top 10 of them, and we found that all of these years range from 1987 to 1996 with users who were born in 1992 were the most ones to use Ford GoBike while those who weer born in 1988 have the highest average trip duration.
 
-> Sec 6: Business Development
->> In this section, we looked at the growth of the business of Ford GoBike at Boston from 2017 to 2020, and how it was affected by (COVID-19) during 2020, and we found that the business was growing quickly year after year, but it was deeply affected by (COVID-19) during 2020 that it achieved much lower trips rate.
+ Sec 6: Business Development
+> In this section, we looked at the growth of the business of Ford GoBike at Boston from 2017 to 2020, and how it was affected by (COVID-19) during 2020, and we found that the business was growing quickly year after year, but it was deeply affected by (COVID-19) during 2020 that it achieved much lower trips rate.
 
  Concerning the limitations that we have faced during our analysis, and things that could go in a better way 
 >- We could compare data from other cities and compare these different variables together for each different city.
